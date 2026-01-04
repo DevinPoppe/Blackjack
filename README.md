@@ -44,9 +44,6 @@ python project.py --play 3 5
  - The game will determine whether you win, lose, or tie each round.
  - After all rounds are completed a final score will be displayed.
 
-## About Me
-Hello, I am Devin from Berlin, Germany, and this is my final project for CS50P. Last year I graduated high school and this year I will be starting my biology technician  apprenticeship.
-
  ---
  Please feel free to reach out if you have any questions or feedback.
  I hope you enjoy playing Blackjack.
